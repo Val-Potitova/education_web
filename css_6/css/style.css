@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+*,*:before,*:after{
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+    line-height: 1;
+    font-size: 14px;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+input,button,textarea{font-family: inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+ol li{list-style: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
+
+body{
+}
+
+.wrap {
+    width: 1440px;
+    height: 1700px;
+    background-color: #e8e8e8;
+    margin: 0 auto;
+    padding: 163px 290px 0;
+}
+
+ul li{
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 400;
+    background: url('../img/check_icon_40.png') left no-repeat;
+    padding: 0 0 0 35px;
+}
+
+.one {
+    margin: 0 0 40px 0;
+}
+.one li:nth-child(1){
+    text-decoration: line-through;
+    color: #273d46;
+}
+.one li:nth-child(2){
+    font-weight: 700;
+    color: #273d46;
+}
+.one li:nth-child(3){
+    font-style: italic;
+    color: #273d46;
+}
+.one li:nth-child(4){
+    text-transform: uppercase;
+    color: #273d46;
+}
+
+.two {
+    margin: 40px 0 69px 0;
+}
+
+.two li:hover{
+    color: #d55a5a;
+    background: url('../img/check_icon_95.png') left no-repeat;
+}
+
+button{
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #ffffff;
+    
+    text-align: center;
+    padding: 17px 59px 17px 30px;
+    background: #80b7b3 url('../img/shape_2_9.png') 151px 17px no-repeat;
+    border-radius: 30px;
+    margin: 69px 0 62px 25px;
+    box-shadow: 0px 6px 40px 0px rgba(128,183,179,0.54);
+}
+
+button:hover{
+    background: #3a5856 url('../img/shape_2_9.png') 151px 17px no-repeat;
+}
+button:active{
+    background: #818181 url('../img/shape_2_9.png') 151px 17px no-repeat;
+    box-shadow: none;
+}
+
+input{
+    width: 295px;
+    height: 52px;
+    border: 1px solid #b0b0b0;
+}
+
+input:focus{
+    box-shadow: 0px 0px 20px -1px rgba(127,190,213,0.93);
+}
