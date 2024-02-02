@@ -1,16 +1,3 @@
-ОЧЕНЬ ценю твой ЛАЙК и КОММЕНТ!
-Получить доступ к плюшкам (стартовый шаблон, макеты и т.д.)
-+ персональное менторство 
-+ поддержать канал: 
--> https://www.patreon.com/freelancerlifestyle
-
-Telegram канал: https://t.me/freelancer_lifestyle или https://teleg.run/freelancer_lifestyle
-Instagram: https://www.instagram.com/freelancer.lifestyle/
-Facebook: https://www.facebook.com/freelancerlifestyle/
-Telegram ЧАТ: https://t.me/flschat или https://teleg.run/flschat
-========================================================================
-ШПАРГАЛКА
-========================================================================
 Каталог шрифтов:
 https://nomail.com.ua/
 Google Fonts:
@@ -49,4 +36,3 @@ font-weight:
 700 - bold
 800 - Heavy
 900 - black
-========================================================================
